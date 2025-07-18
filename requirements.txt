@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+paddleocr
+paddlepaddle
+transformers
+sentence-transformers
+faiss-cpu
+opencv-python
+Pillow
+torch
+streamlit
